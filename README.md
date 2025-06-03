@@ -7,6 +7,6 @@ No warranties or guarantees
 Have fun and happy coding!
 
 
-##Notes
+## Notes
 
 -add a wav file Named "BGM.wav" under "Assets/sounds/" for working background music
